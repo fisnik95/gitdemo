@@ -5,4 +5,5 @@ kaffe fløde
 sodavand 
 chips 
 slik
+tv
 
